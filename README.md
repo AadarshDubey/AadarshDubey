@@ -1,25 +1,102 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.dubey-aadarsh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aadarsh+Dubey!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aadarsh+Dubey;+GenAI+Engineer+🤖;+I+Ship+AI+Not+Vibes;" />
 </h1>
 
-<h3 align="center">Aspiring software developer and final-year B.Tech student from India</h3>
+<h3 align="center">GenAI Engineer • Building real AI systems (not prompt demos)</h3>
 
-<br/>
+---
 
 <div align="center">
- 
- 🪙 I’m currently working on **Crypto project**
- 
- 🌱 I’m currently learning **Docker, TypeScript**
 
-💬 Ask me about **Node.js, React, MongoDb... or anything [here](https://www.linkedin.com/in/aadarsh-dubey-551680164/)**
+🤖 **GenAI Developer**
 
-⚡ Fun fact **I'm reading a book on anti-gravity. It's impossible to put down!**
+I build **AI systems that actually work in production.**
 
- </div>
- 
+Not just:
+
+❌ ChatGPT wrappers
+❌ Prompt screenshots
+❌ Vibe coding
+
+Instead:
+
+✔ RAG Systems
+✔ AI Agents
+✔ Production LLM Apps
+✔ AI Automation
+✔ Real-world AI tools
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 What I Actually Do
+
+</div>
+
+<div align="center">
+
+⚡ Design **LLM Architectures**
+
+⚡ Build **AI SaaS Products**
+
+⚡ Optimize **prompts + latency + cost**
+
+⚡ Deploy **AI systems with Docker**
+
+⚡ Turn crazy ideas into working AI tools
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 Current Experiments
+
+</div>
+
+<div align="center">
+
+🧪 Multi-Agent Systems
+
+🧪 Local LLM setups
+
+🧪 Advanced RAG pipelines
+
+🧪 AI automation tools
+
+🧪 Prompt optimization
+
+</div>
+
+---
+
+<div align="center">
+
+### 😂 Developer Lore
+
+</div>
+
+<div align="center">
+
+> "It worked on the first prompt — suspicious."
+
+> "Half my bugs are hallucinations."
+
+> "AI didn't replace developers.
+> It replaced StackOverflow tabs."
+
+> "Vibe coding is just debugging with astrology."
+
+</div>
+
+---
+
 <div align="center"> 
   <a href="mailto:addydubey321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,49 +106,79 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+---
+
+<h2 align="center">⚒️ Tech Arsenal ⚒️</h2>
+
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,react,js,html,css,nextjs,ts,tailwind,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,sentry,github,threejs,vercel,docker,discord" /><br>
+
+### 🤖 GenAI Stack
+
+LLMs • RAG • Agents • Vector DBs • Prompt Engineering • AI APIs
+
 </div>
 
 <br/>
 
-<h2 align="center"> Certificates </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp"  width="200" height="100"  />
-</div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/AadarshDubey/dubey-aadarsh/blob/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs" />
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=AadarshDubey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AadarshDubey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshDubey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,firebase,github,vercel" />
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,linux,git" />
+
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+<h2 align="center">🐍 Contribution Graph (aka my sleep schedule)</h2>
 
+<div align="center">
 
+<img alt="snake eating my contributions" src="https://github.com/AadarshDubey/dubey-aadarsh/blob/output/github-contribution-grid-snake.svg" />
 
+</div>
 
+---
 
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+
+<br>
+
+<div align=center>
+
+<img width=390 src="https://streak-stats.demolab.com/?user=AadarshDubey&count_private=true&theme=react&border_radius=10"/>
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=AadarshDubey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+
+<br/>
+
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshDubey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+
+</div>
+
+---
+
+<h3 align="center">
+
+⚡ Prompt → Code → Product ⚡
+
+</h3>
+
+---
+
+<div align="center">
+
+### 🧠 GenAI Motto
+
+</div>
+
+<div align="center">
+
+**"Anyone can prompt.
+Few can engineer."**
+
+</div>

@@ -1,184 +1,119 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.dubey-aadarsh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AadarshDubey.dubey-aadarsh" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aadarsh+Dubey;+GenAI+Engineer+🤖;+I+Ship+AI+Not+Vibes;" />
-</h1>
+# Hey, I'm Aadarsh 👋
 
-<h3 align="center">GenAI Engineer • Building real AI systems (not prompt demos)</h3>
+### GenAI Engineer • Building AI systems that survive production.
+
+> *"Less prompting. More engineering."*
+
+---
+
+## About
+
+I'm a GenAI Engineer passionate about turning LLMs into reliable software.
+
+I enjoy building systems where AI is just one component—not the whole product.
+
+Currently interested in:
+
+- 🤖 AI Agents
+- 📚 Production RAG
+- 🧠 LLM Evaluation
+- 🔍 Retrieval Systems
+- ⚡ AI Automation
+- 🐳 Dockerized AI Deployments
+
+---
+
+## Current Projects
+
+- 📈 Crypto Sentiment Intelligence Platform
+- 💰 Financial RAG over Earnings Calls
+- 🤖 Multi-Agent Workflows
+- 🏗️ Local LLM Infrastructure
+
+---
+
+## Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js" />
+</p>
+
+### AI
+
+```
+LangGraph
+LangChain
+Azure AI Search
+Neo4j
+OpenAI
+Gemini
+Ollama
+```
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,docker" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## Philosophy
+
+```
+Software scales.
+
+Prompts don't.
+```
+
+---
+
+## Developer Notes
+
+> "Making agents less confident since 2025."
+
+> "Every hallucination is just undocumented creativity."
+
+> "The best AI feature is the one users don't realize is AI."
+
+---
+
+## Connect
+
+<p>
+<a href="mailto:addydubey321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aadarsh-dubey-551680164/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-🤖 **GenAI Developer**
+*"Good software is boring.*
 
-I build **AI systems that actually work in production.**
+*Good AI software is even more boring.*
 
-Not just:
-
-❌ ChatGPT wrappers
-❌ Prompt screenshots
-❌ Vibe coding
-
-Instead:
-
-✔ RAG Systems
-✔ AI Agents
-✔ Production LLM Apps
-✔ AI Automation
-✔ Real-world AI tools
-
-</div>
-
----
-
-<div align="center">
-
-### 🧠 What I Actually Do
-
-</div>
-
-<div align="center">
-
-⚡ Design **LLM Architectures**
-
-⚡ Build **AI SaaS Products**
-
-⚡ Optimize **prompts + latency + cost**
-
-⚡ Deploy **AI systems with Docker**
-
-⚡ Turn crazy ideas into working AI tools
-
-</div>
-
----
-
-<div align="center">
-
-### 🤖 Current Experiments
-
-</div>
-
-<div align="center">
-
-🧪 Multi-Agent Systems
-
-🧪 Local LLM setups
-
-🧪 Advanced RAG pipelines
-
-🧪 AI automation tools
-
-🧪 Prompt optimization
-
-</div>
-
----
-
-<div align="center">
-
-### 😂 Developer Lore
-
-</div>
-
-<div align="center">
-
-> "It worked on the first prompt — suspicious."
-
-> "Half my bugs are hallucinations."
-
-> "AI didn't replace developers.
-> It replaced StackOverflow tabs."
-
-> "Vibe coding is just debugging with astrology."
-
-</div>
-
----
-
-<div align="center"> 
-  <a href="mailto:addydubey321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aadarsh-dubey-551680164/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
----
-
-<h2 align="center">⚒️ Tech Arsenal ⚒️</h2>
-
-<br/>
-
-<div align="center">
-
-### 🤖 GenAI Stack
-
-LLMs • RAG • Agents • Vector DBs • Prompt Engineering • AI APIs
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,firebase,github,vercel" />
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,linux,git" />
-
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Graph (aka my sleep schedule)</h2>
-
-<div align="center">
-
-<img alt="snake eating my contributions" src="https://github.com/AadarshDubey/dubey-aadarsh/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<h2 align="center">⚡ GitHub Analytics ⚡</h2>
-
-<br>
-
-<div align=center>
-
-<img width=390 src="https://streak-stats.demolab.com/?user=AadarshDubey&count_private=true&theme=react&border_radius=10"/>
-
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=AadarshDubey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-
-<br/>
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshDubey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
-
-</div>
-
----
-
-<h3 align="center">
-
-⚡ Prompt → Code → Product ⚡
-
-</h3>
-
----
-
-<div align="center">
-
-### 🧠 GenAI Motto
-
-</div>
-
-<div align="center">
-
-**"Anyone can prompt.
-Few can engineer."**
+*That's the goal."*
 
 </div>

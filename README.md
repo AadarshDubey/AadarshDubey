@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Aadarsh%20Dubey&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=GenAI%20Engineer%20•%20Building%20Production%20AI%20Systems&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Aadarsh%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=GenAI%20Engineer%20•%20Building%20Production%20AI%20Systems&descAlignY=63"/>
 
 <p align="center">
 
@@ -10,36 +10,49 @@
 
 </p>
 
+<p align="center">
+<a href="mailto:addydubey321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aadarsh-dubey-551680164/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AadarshDubey&label=Visitors&color=2563EB&style=for-the-badge"/>
+
+</p>
+
 ---
 
-## About
+# About
 
-I'm a GenAI Engineer focused on building reliable AI products—not just demos.
+I'm a **GenAI Engineer** passionate about building production-grade AI systems.
 
-I enjoy designing systems where LLMs are one component of a larger software architecture.
+I enjoy turning LLMs into reliable software by combining them with good engineering, scalable architecture, and thoughtful system design.
 
-Currently exploring:
+Currently obsessed with:
 
 - 🤖 AI Agents
 - 📚 Production RAG
 - 🧠 LLM Evaluation
 - 🔍 Retrieval Systems
 - ⚡ AI Automation
-- 🐳 AI Infrastructure
+- 🐳 Docker & AI Infrastructure
 
 ---
 
-## Current Projects
+# Current Projects
 
 - 📈 Crypto Sentiment Intelligence Platform
-- 💰 Financial RAG for Earnings Calls
-- 🤖 Autonomous Multi-Agent Workflows
+- 💰 Financial Earnings Call RAG
+- 🤖 Autonomous Multi-Agent Systems
 - 🧠 Local LLM Infrastructure
-- ⚡ AI Search & Knowledge Systems
+- 🔎 AI Search & Knowledge Systems
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -59,7 +72,7 @@ Currently exploring:
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### AI & Infrastructure
+### AI
 
 ```text
 LangGraph
@@ -80,7 +93,47 @@ Vector Databases
 
 ---
 
-## Engineering Philosophy
+# GitHub Overview
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadarshDubey&theme=github_dark"/>
+
+</p>
+
+---
+
+# Development Insights
+
+<p align="center">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadarshDubey&theme=github_dark"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadarshDubey&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AadarshDubey&theme=github_dark&utcOffset=5.5"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AadarshDubey&theme=github_dark"/>
+
+</p>
+
+---
+
+# Activity
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshDubey&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Engineering Philosophy
 
 ```text
 Build software.
@@ -94,23 +147,7 @@ Repeat.
 
 ---
 
-## Status
-
-```text
-🟢 Currently Building
-
-☕ Coffee ............ Loading...
-
-🤖 Agents ............ Probably plotting something
-
-🐞 Bugs .............. Under negotiation
-
-🚀 Next Deploy ....... Hopefully on the first try
-```
-
----
-
-## Developer Notes
+# Developer Notes
 
 > "Making agents slightly less confident every day."
 
@@ -120,27 +157,27 @@ Repeat.
 
 ---
 
-## GitHub
+# Outside the Terminal
 
-<p align="center">
+```text
+🏔 Trekking
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadarshDubey&theme=github_dark"/>
+🎸 Ukulele
 
-</p>
+📈 Crypto
+
+☕ Coffee
+
+📚 Always learning something new.
+```
 
 ---
 
-## Connect
+# Random Programming Wisdom
 
 <p align="center">
 
-<a href="mailto:addydubey321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aadarsh-dubey-551680164/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </p>
 
@@ -154,6 +191,4 @@ Repeat.
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AadarshDubey&label=Visitors&color=2563EB&style=flat" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>

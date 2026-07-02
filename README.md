@@ -1,16 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Aadarsh%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=GenAI%20Engineer%20•%20Building%20Production%20AI%20Systems&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,100:2563EB&text=Aadarsh%20Dubey&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=GenAI%20Engineer%20•%20LLM%20Systems%20•%20AI%20Infrastructure&descAlignY=63"/>
 
 <p align="center">
 
-# Hey, I'm Aadarsh 👋
+# Hey 👋
 
-### GenAI Engineer
-
-> **Building software that happens to use AI.**
+### I build AI products that survive production.
 
 </p>
 
 <p align="center">
+
 <a href="mailto:addydubey321@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -19,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AadarshDubey&label=Visitors&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AadarshDubey&style=for-the-badge&color=2563EB"/>
 
 </p>
 
@@ -27,97 +26,68 @@
 
 # About
 
-I'm a **GenAI Engineer** passionate about building production-grade AI systems.
+I'm a GenAI Engineer from India building production-grade AI systems.
 
-I enjoy turning LLMs into reliable software by combining them with good engineering, scalable architecture, and thoughtful system design.
-
-Currently obsessed with:
+Most of my work lives at the intersection of
 
 - 🤖 AI Agents
-- 📚 Production RAG
+- 📚 Retrieval-Augmented Generation
 - 🧠 LLM Evaluation
-- 🔍 Retrieval Systems
 - ⚡ AI Automation
-- 🐳 Docker & AI Infrastructure
+- 🔍 Search & Knowledge Systems
+- ☁️ AI Infrastructure
+
+I enjoy making AI systems **faster, cheaper and more reliable.**
 
 ---
 
-# Current Projects
+# Building
 
-- 📈 Crypto Sentiment Intelligence Platform
-- 💰 Financial Earnings Call RAG
-- 🤖 Autonomous Multi-Agent Systems
-- 🧠 Local LLM Infrastructure
-- 🔎 AI Search & Knowledge Systems
+- 🚀 Crypto Sentiment Intelligence Platform
+- 💰 Financial RAG over Earnings Calls
+- 🤖 Multi-Agent Research Workflows
+- 🧠 Local LLM Runtime
+- 📊 AI Search Platform
 
 ---
 
-# Tech Stack
+# Tech
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,ts,js" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,docker,postgres,mongodb,linux,git,vscode"/>
+
 </p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,docker" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### AI
 
 ```text
-LangGraph
-LangChain
-Azure AI Search
-Neo4j
-OpenAI
-Gemini
-Ollama
-Vector Databases
+LangGraph • LangChain • Azure AI Search • Neo4j
+
+OpenAI • Gemini • Ollama • Vector DBs
 ```
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
 ---
 
-# GitHub Overview
+# GitHub
 
 <p align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadarshDubey&theme=github_dark"/>
-
-</p>
-
----
-
-# Development Insights
-
-<p align="center">
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadarshDubey&theme=github_dark"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadarshDubey&theme=github_dark"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadarshDubey&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AadarshDubey&theme=github_dark&utcOffset=5.5"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AadarshDubey&theme=github_dark"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AadarshDubey&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AadarshDubey&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadarshDubey&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AadarshDubey&theme=github_dark"/>
 
 </p>
 
@@ -127,48 +97,58 @@ Vector Databases
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshDubey&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshDubey&theme=github-compact&hide_border=true"/>
 
 </p>
 
 ---
 
-# Engineering Philosophy
+# Philosophy
 
-```text
-Build software.
-
-Measure everything.
-
-Optimize what matters.
-
-Repeat.
+```cpp
+while (true)
+{
+    Learn();
+    Build();
+    Break();
+    Improve();
+}
 ```
 
 ---
 
-# Developer Notes
+# Terminal
 
-> "Making agents slightly less confident every day."
+```console
+> whoami
 
-> "Every hallucination is just undocumented creativity."
+Aadarsh Dubey
 
-> "If it only works in the playground, it doesn't work."
+GenAI Engineer
+
+Currently:
+├── Building AI Agents
+├── Improving RAG Systems
+├── Reading Research Papers
+└── Probably Debugging
+
+Status: 🟢 Online
+```
 
 ---
 
-# Outside the Terminal
+# Outside Work
 
 ```text
 🏔 Trekking
 
 🎸 Ukulele
 
-📈 Crypto
+📈 Crypto Markets
+
+📚 Research Papers
 
 ☕ Coffee
-
-📚 Always learning something new.
 ```
 
 ---
@@ -185,10 +165,8 @@ Repeat.
 
 <p align="center">
 
-*"Good software is invisible.*
-
-*Good AI software is even more invisible."*
+> Building software that happens to use AI.
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0B1220"/>
